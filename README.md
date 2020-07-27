@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello there. :panda_face:
 
+I'm Jan, a geo-scientist with a passion for hot rocks, i.e. geothermal energy.
+
+- :thermometer: I’m currently working on [geothermal reservoir simulations in Switzerland](https://geg.ethz.ch/project-geothermal_aargau/)
+- :earth_africa: Passionate about earth, its climate, and global energy systems 
+- :snake: An avid Pythonista  
+
+![Jan's github stats](https://github-readme-stats.vercel.app/api?username=japhiolite&count_private=false&show_icons=true&hide_border=true&title_color=09799c&cache_seconds=86400)
 <!--
 **Japhiolite/japhiolite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
