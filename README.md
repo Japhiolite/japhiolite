@@ -1,6 +1,6 @@
 ### Hello there. :panda_face:
 
-I'm Jan, a geo-scientist with a passion for hot rocks, i.e. geothermal energy.
+I'm Jan, a geoscientist with a passion for hot rocks, i.e. geothermal energy.
 
 - :thermometer: I’m currently working on [geothermal reservoir simulations in Switzerland](https://geg.ethz.ch/project-geothermal_aargau/)
 - :earth_africa: Passionate about earth, its climate, and global energy systems 
